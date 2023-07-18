@@ -1,0 +1,3 @@
+C:/homework/cpp/BLOCK3Q4/cmake-build-debug/CMakeFiles/BLOCK3Q4.dir
+C:/homework/cpp/BLOCK3Q4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/homework/cpp/BLOCK3Q4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
